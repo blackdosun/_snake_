@@ -1,0 +1,6 @@
+{
+  "name": "像素貪食蛇",
+  "description": "一個經典的、具有現代感的像素風格貪食蛇遊戲，使用 React 和 Canvas 建立。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
