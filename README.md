@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 像素貪食蛇遊戲
 
-# Run and deploy your AI Studio app
+一個經典的、具有現代感的像素風格貪食蛇遊戲，使用 React 和 Canvas 建立。
 
-This contains everything you need to run your app locally.
+## 本地運行
 
-View your app in AI Studio: https://ai.studio/apps/5a15273f-39d4-4b93-9b00-6cf0092a9dc7
+**先決條件：** Node.js
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
+1. 安裝依賴：
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+
+2. 運行應用：
    `npm run dev`
+
+3. 在瀏覽器中開啟 http://localhost:3000
